@@ -4,7 +4,7 @@ What's good 🤙
 - 🤖 Currently learning Android Development with Binar Academy
 - 🐍 Interested in machine learning - Working on AI Project for Final Thesis
 
-Started my programming journey on December 2022
+Started my programming journey on December 2022 and documenting my progress here
 <!--
 **nabawiarifin/nabawiarifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
