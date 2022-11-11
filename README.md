@@ -4,7 +4,9 @@ What's good 🤙
 - 🤖 Android Development 
 - 🐍 Interested in all digital solutions ;)
 
-Started my programming journey on December 2021 and documenting my progress here
+Currently working on:
+- Secondhand Market App
+- Pokedex App
 <!--
 **nabawiarifin/nabawiarifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
