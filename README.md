@@ -1,7 +1,8 @@
 What's good 🤙
 
 - 🧑‍🎓 Industrial Engineering Graduate in Universitas Sumatera Utara
-- 🤖 Android Development 
+- 🥐 The Odin Project Connoisseur
+- 🤖 Android Development
 - 🐍 Interested in all digital solutions ;)
 
 Currently working on:
