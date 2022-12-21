@@ -7,7 +7,7 @@ What's good 🤙
 
 Currently working on:
 - Secondhand Market App
-- Pokedex App
+- The Odin Project
 <!--
 **nabawiarifin/nabawiarifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
